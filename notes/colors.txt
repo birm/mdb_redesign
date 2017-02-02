@@ -1,6 +1,5 @@
-background:
-header and footer:
-core:
-contrast:
-accent:
-division:
+background: #FFFDFD (off-white)
+divisions, header and footer: #CBD2D0 (LIGHT GRAY)
+contrast: #DF2935 (ROSE MADDER)
+core: #1B998B (JUNGLE GREEN)
+accent: #0B3C49 (WARM BLACK)
